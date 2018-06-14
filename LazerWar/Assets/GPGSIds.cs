@@ -24,6 +24,7 @@
 
 public static class GPGSIds
 {
+        public const string leaderboard_marcador_principal = "CgkIhNuq8ekYEAIQAg"; // <GPGSID>
         public const string achievement_wellcome = "CgkIhNuq8ekYEAIQAQ"; // <GPGSID>
 
 }

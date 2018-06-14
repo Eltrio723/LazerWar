@@ -1,0 +1,3 @@
+-keep class com.google.games.** { ; }
+-keep interface com.google.games.* { *; }
+-keep includedescriptorclasses class com.google.games.bridge.** { *; }
